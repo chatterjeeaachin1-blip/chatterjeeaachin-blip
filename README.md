@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a BTech student with a strong interest in prog
 * **Currently Learning:** Building digital portfolios and expanding my software development skills.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Add your LinkedIn URL here]
-* **Email:** [Add your Email here]
+* **LinkedIn:** [https://www.linkedin.com/in/aachin-chatterjee-b95546390/]
+* **Email:** [usecommercial062gmail.com]
 
 ---
 ⭐️ *Thanks for stopping by!*
