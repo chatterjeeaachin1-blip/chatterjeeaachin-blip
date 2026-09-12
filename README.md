@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a BTech student with a strong interest in prog
 *  When I'm not coding, you can probably find me playing badminton.
 
 ### Tech Stack & Tools
-* **Languages:** Java, C
+* **Languages:** Java, C, Python
 * **Concepts:** Data Structures & Algorithms, Discrete Mathematics, Object-Oriented Programming
 * **Currently Learning:** Building digital portfolios and expanding my software development skills.
 
