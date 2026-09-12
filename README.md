@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a BTech student with a strong interest in prog
 ### About Me
 *  Currently pursuing my BTech degree.
 *  Passionate about writing clean and efficient code.
-*  Active hackathon participant (Team: **404 BRAIN NOT FOUND**).
 *  When I'm not coding, you can probably find me playing badminton.
 
 ### Tech Stack & Tools
