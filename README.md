@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a BTech student with a strong interest in prog
 
 ### Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/aachin-chatterjee-b95546390/]
-* **Email:** [usecommercial062gmail.com]
+* **Email:** [chatterjeeaachin1@gmail.com]
 
 ---
 *Thanks for stopping by!*
